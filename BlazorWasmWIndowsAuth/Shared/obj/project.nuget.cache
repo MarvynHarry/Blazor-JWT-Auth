@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GmQ8Svx8ntALvKWRHkWqUmYrcS2WCpydSOwCYZdp8+TbruFbQlv6826uHDuE8yKZf2b0tFrrI27VNby54QKHxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marvy\\Downloads\\BlazorWasmAuthStateProvicerWindowsAuthAndJWT-master\\BlazorWasmAuthStateProvicerWindowsAuthAndJWT-master\\BlazorWasmWIndowsAuth\\Shared\\BlazorWasmWIndowsAuth.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marvy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.11\\microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\marvy\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.11\\microsoft.windowsdesktop.app.ref.6.0.11.nupkg.sha512",
+    "C:\\Users\\marvy\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.11\\microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
