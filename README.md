@@ -33,20 +33,18 @@ This repository demonstrates authentication and authorization in a Blazor WebAss
 
 2. **Update AppSettings**:
   
-  - Navigate to Server/appsettings.json.
-  - Set the connection string for the database (if using a database) and configure JWT options.
+     - Navigate to Server/appsettings.json.
+     - Set the connection string for the database (if using a database) and configure JWT options.
 
  3. **Restore Dependencies**:
 
- ```bash
- dotnet restore
-```
-
-
+    ```bash
+    dotnet restore
+   
  4. **Run the Application**:
-
- ```bash
-   dotnet run --project Server
-```
+    
+      ```bash
+      dotnet run --project Server
+      ```
 
  5. **Access the Application: Open a browser and navigate to https://localhost:5001.**
