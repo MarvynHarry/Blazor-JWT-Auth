@@ -1,4 +1,4 @@
-# Blazor-JWT-Auth
+# Blazor-JWT-Windows-Auth
 
 This repository demonstrates authentication and authorization in a Blazor WebAssembly application using a custom Authentication State Provider. It integrates both Windows Authentication and JWT (JSON Web Token) for secure and flexible user authentication.
 
@@ -28,8 +28,8 @@ This repository demonstrates authentication and authorization in a Blazor WebAss
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/MarvynHarry/BlazorWasmAuthStateProvicerWindowsAuthAndJWT.git
-   cd BlazorWasmAuthStateProvicerWindowsAuthAndJWT
+   git clone https://github.com/MarvynHarry/Blazor-JWT-Windows-Auth.git
+   cd Blazor-JWT-Windows-Auth
 
 2. **Update AppSettings**:
   
